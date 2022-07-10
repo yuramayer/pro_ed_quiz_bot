@@ -1,2 +1,3 @@
-# pro_ed_quiz_bot
-Telegram quiz (aiogram) 4 Pro.Education
+# Телеграм-Квиз для [PRO.Образование](https://t.me/PRO_Education_msal) :sparkles:
+Реализация викторины для розыгрыша на базе [Телеграм-бота](https://t.me/ProEducationMSALBot) Учебного центра кафедры практической юриспруденции МГЮА PRO.Образование 
+## Что-то ещё
